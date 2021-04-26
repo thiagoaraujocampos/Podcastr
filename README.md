@@ -17,7 +17,7 @@ Developed during Next Level Week #5.
 
 - [Next.js](https://nextjs.org/ "Next.js")
 - [Typescript](https://www.typescriptlang.org/ "Typescript")
-- [Sass] (https://sass-lang.com/ "Sass")
+- [Sass](https://sass-lang.com/ "Sass")
 
 <br />
 
